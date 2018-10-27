@@ -6,7 +6,7 @@ project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+Ensure your pull request is within the following guidelines:
 
 - Include a description of the link you're adding if possible
 - If you're changing section headers, ensure you update the contents at the top too
